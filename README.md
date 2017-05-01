@@ -9,4 +9,5 @@
 5. [Введение в технологию Windows Forms](https://makshladki.github.io/CSharpOOP/dist/task/Forms/Introduction.pdf "Введение в технологию Windows Forms")  
 6. [Элементы управления Windows Forms, рефлексия, xml-сериализация](https://makshladki.github.io/CSharpOOP/dist/task/Reflection/Reflection.pdf "Элементы управления Windows Forms, рефлексия, xml-сериализация")  
 7. [Регулярные выражения, стандартные атрибуты валидации, юнит-тестирование](https://makshladki.github.io/CSharpOOP/dist/task/Regex/Regex.pdf "Регулярные выражения. Стандартные атрибуты валидации. Юнит-тестирование")  
-8. [Работа с базами данных в .NET Framework. Технология ADO.NET](https://makshladki.github.io/CSharpOOP/dist/task/ADO.NET/ADO.NET.pdf "Работа с базами данных в .NET Framework. Технология ADO.NET")
+8. [Работа с базами данных в .NET Framework. Технология ADO.NET](https://makshladki.github.io/CSharpOOP/dist/task/ADO.NET/ADO.NET.pdf "Работа с базами данных в .NET Framework. Технология ADO.NET")  
+9. [Введение в технологию WPF](https://makshladki.github.io/CSharpOOP/dist/task/WPF.Basic/WPF.Basic.pdf "Введение в технологию WPF")
