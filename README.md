@@ -12,5 +12,5 @@
 8. [Работа с базами данных в .NET Framework. Технология ADO.NET](https://makshladki.github.io/CSharpOOP/dist/task/ADO.NET/ADO.NET.pdf "Работа с базами данных в .NET Framework. Технология ADO.NET")  
 9. [Введение в технологию WPF](https://makshladki.github.io/CSharpOOP/dist/task/WPF.Basic/WPF.Basic.pdf "Введение в технологию WPF")  
 10. [Работа с ресурсами, темами, привязками и навигацией в WPF](https://makshladki.github.io/CSharpOOP/dist/task/WPF.Advance/WPF.Advance.pdf "Работа с ресурсами, темами, привязками и навигацией в WPF")  
-11. [Паттерн MVVM. Использование паттерна MVVM в WPF-приложениях](https://makshladki.github.io/CSharpOOP/dist/task/WPF.MVVM/WPF.MVVM.pdf "Паттерн MVVM. Использование паттерна MVVM в WPF-приложениях")
-
+11. [Паттерн MVVM. Использование паттерна MVVM в WPF-приложениях](https://makshladki.github.io/CSharpOOP/dist/task/WPF.MVVM/WPF.MVVM.pdf "Паттерн MVVM. Использование паттерна MVVM в WPF-приложениях")  
+12. [Многоуровневая архитектура приложений. Паттерны Repository и Unit Of Work](https://makshladki.github.io/CSharpOOP/dist/task/Architecture.Repo/Architecture.Repo.pdf "Многоуровневая архитектура приложений. Паттерны Repository и Unit Of Work")  
